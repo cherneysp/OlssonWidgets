@@ -1,0 +1,21 @@
+{
+  "name": "mywidget",
+  "type": "widget",
+  "version": "1.11.0",
+  "exbVersion": "1.11.0",
+  "author": "cherney",
+  "description": "my first widget",
+  "copyright": "",
+  "license": "",
+  "properties": {
+    "hasSettingPage": false,
+    "hasConfig": false
+  },
+  "translatedLocales": [
+    "en"
+  ],
+  "defaultSize": {
+    "width": 800,
+    "height": 500
+  }
+}

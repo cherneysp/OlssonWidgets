@@ -1,0 +1,21 @@
+{
+  "name": "Test-Olsson-Widget",
+  "type": "widget",
+  "version": "1.11.0",
+  "dependency": [
+    "jimu-arcgis"
+  ],
+  "exbVersion": "1.11.0",
+  "author": "Synesis Partners",
+  "description": "Testing a custom widget",
+  "copyright": "",
+  "license": "",
+  "properties": {},
+  "translatedLocales": [
+    "en"
+  ],
+  "defaultSize": {
+    "width": 800,
+    "height": 500
+  }
+}

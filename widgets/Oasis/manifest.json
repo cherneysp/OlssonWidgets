@@ -1,0 +1,21 @@
+{
+  "name": "Oasis",
+  "type": "widget",
+  "version": "1.11.0",
+  "dependency": [
+    "jimu-arcgis"
+  ],
+  "exbVersion": "1.11.0",
+  "author": "Synesis Partners",
+  "description": "Allows the user to draw a polygon around addresses and specify a point. The widget then determine the best route from each address to the specified point.",
+  "copyright": "",
+  "license": "",
+  "properties": {},
+  "translatedLocales": [
+    "en"
+  ],
+  "defaultSize": {
+    "width": 800,
+    "height": 500
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "name": "get-map-coordinates",
+  "type": "widget",
+  "version": "1.11.0",
+  "dependency": [
+    "jimu-arcgis"
+  ],
+  "exbVersion": "1.11.0",
+  "author": "cherney",
+  "description": "my first widget",
+  "copyright": "",
+  "license": "",
+  "properties": {},
+  "translatedLocales": [
+    "en"
+  ],
+  "defaultSize": {
+    "width": 800,
+    "height": 500
+  }
+}
